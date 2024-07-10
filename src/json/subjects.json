@@ -1,0 +1,329 @@
+[
+    {
+        "code": "ICS2609",
+        "name": "Application Development and Emerging Tehcnologies 2 (Web-Back-End)",
+        "lec": 2,
+        "lab": 1,
+        "prelims": 1.5,
+        "finals": 1.25,
+        "year": "2024"
+    },
+    {
+        "code": "CS2617",
+        "name": "Advance Probability and Statistics",
+        "lec": 2,
+        "lab": 1,
+        "prelims": 2.0,
+        "finals": 2.0,
+        "year": "2024"
+    },
+    {
+        "code": "CS2618",
+        "name": "Introduction to Intelligent Systems",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.0,
+        "finals": 2.0,
+        "year": "2024"
+    },
+    {
+        "code": "CS2619",
+        "name": "Computer Architecture and Organization",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 3.0,
+        "finals": 2.5,
+        "year": "2024"
+    },
+    {
+        "code": "THY_4",
+        "name": "Living the Christian Vision in the Contemporary World",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 1.75,
+        "finals": 1.75,
+        "year": "2024"
+    },
+    {
+        "code": "PATH-FIT",
+        "name": "Human Enhancement",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 1.0,
+        "finals": 1.0,
+        "year": "2024"
+    },
+    {
+        "code": "STS",
+        "name": "Science, Technology, and Society",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.25,
+        "finals": 1.75,
+        "year": "2024"
+    },
+    {
+        "code": "READ_PH",
+        "name": "Readings in Philippine History",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 1.75,
+        "finals": 2.0,
+        "year": "2024"
+    },
+    
+    {
+        "code": "ELE-ES",
+        "name": "Environmental Science",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.25,
+        "finals": 1.75,
+        "year": "2023-b"
+    },
+    {
+        "code": "ICS2607",
+        "name": "Information Management",
+        "lec": 3,
+        "lab": 1,
+        "prelims": 1.25,
+        "finals": 1.25,
+        "year": "2023-b"
+    },
+    {
+        "code": "ICS2608",
+        "name": "Application Development and Emerging Tehcnologies 1 (Web-Front-End)",
+        "lec": 2,
+        "lab": 1,
+        "prelims": 2.0,
+        "finals": 2.0,
+        "year": "2023-b"
+    },
+    {
+        "code": "CS2614",
+        "name": "College Calculus for Computing Sciences",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.75,
+        "finals": 2.5,
+        "year": "2023-b"
+    },
+    {
+        "code": "CS2615",
+        "name": "Design and Analysis of Algorithms",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.5,
+        "finals": 2.0,
+        "year": "2023-b"
+    },
+    {
+        "code": "CS2616",
+        "name": "Theory of Automata",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.5,
+        "finals": 2.0,
+        "year": "2023-b"
+    },
+    {
+        "code": "PATH-FIT",
+        "name": "Fitness Excercises for Specific Sports",
+        "lec": 2,
+        "lab": 0,
+        "prelims": 1.0,
+        "finals": 1.0,
+        "year": "2023-b"
+    },
+    {
+        "code": "THY_3",
+        "name": "Science, Technology, and Society",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 1.25,
+        "finals": 1.0,
+        "year": "2023-b"
+    },
+    
+    {
+        "code": "ICS2605",
+        "name": "Data Structures and Algorithms",
+        "lec": 3,
+        "lab": 1,
+        "prelims": 3.0,
+        "finals": 2.0,
+        "year": "2023-a"
+    },
+    {
+        "code": "CS2611",
+        "name": "Linear Algebra for Computing Sciences",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.5,
+        "finals": 2.25,
+        "year": "2023-a"
+    },
+    {
+        "code": "CS2612",
+        "name": "Human-Computer Interaction",
+        "lec": 2,
+        "lab": 0,
+        "prelims": 1.75,
+        "finals": 1.75,
+        "year": "2023-a"
+    },
+    {
+        "code": "CS2613",
+        "name": "Logic and Digital Circuits Design",
+        "lec": 2,
+        "lab": 0,
+        "prelims": 2.0,
+        "finals": 2.75,
+        "year": "2023-a"
+    },
+    {
+        "code": "ICS2606",
+        "name": "Computer Programming II (Intermediate Programming - Object-Oriented)",
+        "lec": 3,
+        "lab": 1,
+        "prelims": 2.0,
+        "finals": 1.75,
+        "year": "2023-a"
+    },
+    {
+        "code": "ELE_EM",
+        "name": "Entrepreneurial Mind",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 1.5,
+        "finals": 1.0,
+        "year": "2023-a"
+    },
+    {
+        "code": "THY_2",
+        "name": "Christian Vision of Marriage and Family",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 1.75,
+        "finals": 1.5,
+        "year": "2023-a"
+    },
+    {
+        "code": "PATH-FIT",
+        "name": "Physical Activities Towards Health and Fitness in Dance",
+        "lec": 2,
+        "lab": 0,
+        "prelims": 1.25,
+        "finals": 1.25,
+        "year": "2023-a"
+    },
+    {
+        "code": "NSTP_CWS_2",
+        "name": "NSTP Civic Welfare Training Service II",
+        "lec": 0,
+        "lab": 3,
+        "prelims": 1.5,
+        "finals": 1.5,
+        "year": "2023-a"
+    },
+    {
+        "code": "PURPCOM",
+        "name": "Purposive Communication",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.0,
+        "finals": 1.75,
+        "year": "2023-a"
+    },
+
+    {
+        "code": "ICS2603",
+        "name": "Discrete Structures",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.75,
+        "finals": 2.75,
+        "year": "2022"
+    },
+    {
+        "code": "ICS2604",
+        "name": "Values Education",
+        "lec": 2,
+        "lab": 0,
+        "prelims": 2.75,
+        "finals": 1.75,
+        "year": "2022"
+    },
+    {
+        "code": "ICS2601",
+        "name": "Introduction to Computing",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 2.75,
+        "finals": 2.75,
+        "year": "2022"
+    },
+    {
+        "code": "ICS2602",
+        "name": "Computer Programming I (Fundamentals of Programming - Imperative)",
+        "lec": 4,
+        "lab": 1,
+        "prelims": 2.75,
+        "finals": 2.25,
+        "year": "2022"
+    },
+    {
+        "code": "THY_1",
+        "name": "Christian Vision of the Human Person",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 1.75,
+        "finals": 1.75,
+        "year": "2022"
+    },
+    {
+        "code": "PATH-FIT",
+        "name": "Physical Activities Towards Health and Fitness in Sports",
+        "lec": 2,
+        "lab": 0,
+        "prelims": 1.75,
+        "finals": 1.25,
+        "year": "2022"
+    },
+    {
+        "code": "NSTP_CWS_1",
+        "name": "NSTP Civic Welfare Training Service I",
+        "lec": 0,
+        "lab": 3,
+        "prelims": 1.75,
+        "finals": 1.75,
+        "year": "2022"
+    },
+    {
+        "code": "UND_SELF",
+        "name": "Understanding the Self",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 1.0,
+        "finals": 1.0,
+        "year": "2022"
+    },
+    {
+        "code": "MATH_MW",
+        "name": "Mathematics in the Modern World",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 3.0,
+        "finals": 2.75,
+        "year": "2022"
+    },
+    {
+        "code": "ART_APP",
+        "name": "Art Appreciation",
+        "lec": 3,
+        "lab": 0,
+        "prelims": 1.75,
+        "finals": 1.5,
+        "year": "2022"
+    }
+]

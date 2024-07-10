@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Profile",
+        "id": "profile",
+        "dropdown": false
+    },
+    {
+        "name": "Grades",
+        "id": "grades",
+        "dropdown": true,
+        "sublinks": ["Student Deficiencies", "Grades Viewing"]
+    },
+    {
+        "name": "Course Details",
+        "id": "course_details",
+        "dropdown": true,
+        "sublinks": ["Curriculum", "Course Offerings", "Schedule"]
+    },
+    {
+        "name": "Online Transactions",
+        "id": "online_transactions",
+        "dropdown": true,
+        "sublinks": ["Elective Selection", "Online Enrollment", "Balance Payment", "Transaction History"]
+    },
+    {
+        "name": "Billing/Fees",
+        "id": "billing_fees",
+        "dropdown": true,
+        "sublinks": ["Balance Dues", "Lab Breakages"]
+    },
+    {
+        "name": "Evaluation",
+        "id": "evaluation",
+        "dropdown": true,
+        "sublinks": ["College Faculty", "Guidance Counselor", "Librarian", "NSTP Facilitator/Program"]
+    },
+    {
+        "name": "Graduation",
+        "id": "graduation",
+        "dropdown": true,
+        "sublinks": ["Application for Graduation", "FAQ"]
+    },
+    {
+        "name": "Downloadables",
+        "id": "download",
+        "dropdown": true,
+        "sublinks": ["Enrollment Conforme A", "Acknoledgement Form", "Refund Application Form"]
+    },
+    {
+        "name": "WiFi Account",
+        "id": "wifi",
+        "dropdown": false
+    },
+    {
+        "name": "Logout",
+        "id": "logout",
+        "dropdown": false
+    }
+]
