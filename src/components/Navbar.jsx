@@ -19,9 +19,9 @@ const Navbar = () => {
   return (
     <>
       <div className='d-flex align-items-center justify-content-between'>
-        <div className="tw-min-w-80 d-flex align-items-center user-select-none">
+        <div className="d-flex align-items-center user-select-none">
           <img src={Logo} className="tw-w-14 tw-h-14 me-2" alt="UST Logo" />
-          <div>
+          <div> 
             <p className="tw-font-serif tw-uppercase tw-text-sm m-0">university of santo tomas</p>
             <h6 className="tw-font-sans tw-text-xl mb-0 fw-bold -tw-mt-1 tw-text-zinc-100"><span className="tw-text-neutral-800">MyUste</span> Portal</h6>
           </div>

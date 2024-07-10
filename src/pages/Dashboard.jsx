@@ -27,7 +27,7 @@ const Dashboard = () => {
   }, 0);
 
   return (
-    <>
+    <div className='tw-overflow-hidden'>
       <Helmet> 
           <title>Student Portal</title> 
       </Helmet> 
@@ -120,15 +120,15 @@ const Dashboard = () => {
               <section className='col-12 col-xl-9'>
                 <div className="row">
                   <div className="col-12 mb-4">
-                    <div className="tw-min-w-max">
+                    <div>
                       <h5 className='tw-text-orange-700'>Year and Term: <span className='tw-text-sm tw-text-neutral-800'>{year.name}</span></h5>
                       <h5 className='text-uppercase tw-text-orange-700'>College of Information and Computing Sciences</h5>
                     </div>
                   </div>
 
-                  <div className="col-12 tw-overflow-auto user-select-none">
-                    <div>
-                      <table className="tw-w-full border-collapse table-auto border border-slate-400 tw-min-w-max">
+                  <div className="col-12 tw-overflow-auto user-select-none p-0">
+                    <div className='tw-px-3'>
+                      <table className="tw-w-full border-collapse table-auto border border-slate-400">
                         <thead>
                           <tr>
                             <th className="text-center p-2 fw-medium tw-border tw-border-neutral-800 tw-bg-amber-400">Subject Code</th>
@@ -172,7 +172,7 @@ const Dashboard = () => {
                         <h5 className='m-0'>Remarks:</h5>
                       </div>
                       <div className="w-full px-3 py-2 tw-bg-amber-100">
-                        <h6>
+                        <h6 className="fw-bold">
                           The grade for a specific course, be it a monthly grade (first shift for College of Pharmacy) 
                           or prelim grade (second shift for College of Pharmacy), whichever is applicable, is computed based on the grading system of the college/faculty.
                         </h6>
@@ -194,7 +194,7 @@ const Dashboard = () => {
         <Footer/>
       </footer>
 
-    </>
+    </div>
   )
 }
 

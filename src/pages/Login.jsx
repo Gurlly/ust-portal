@@ -1,5 +1,4 @@
 import Helmet from 'react-helmet';   
-import { Link } from 'react-router-dom';
 
 import { Col, Row, Form, FloatingLabel } from 'react-bootstrap';
 
@@ -12,9 +11,9 @@ const Login = () => {
             <title>Login Portal</title> 
         </Helmet> 
         
-        <main className="tw-font-sans container-fluid p-0 tw-w-dvw tw-h-dvh tw-overflow-hidden tw-bg-gradient-to-br tw-from-yellow-400 tw-via-yellow-200 tw-to-yellow-400">
-          <Row className="tw-h-full align-items-center justify-content-center">
-            <Col xs={11} sm={10} md={9} lg={7} xl={6} xxl={4} className="tw-h-3/5 px-4 py-5 tw-border-2 tw-border-zinc-900 tw-rounded-xl tw-bg-zinc-100">
+        <main className="tw-font-sans container-fluid tw-h-screen tw-overflow-auto tw-bg-gradient-to-br tw-from-yellow-400 tw-via-yellow-200 tw-to-yellow-400">
+          <Row className="tw-h-full px-2 align-items-center justify-content-center">
+            <Col xs={11} sm={10} md={7} lg={5} xl={4} className="px-4 py-5 my-4 tw-border-2 tw-border-zinc-900 tw-rounded-xl tw-bg-zinc-100">
               <div className="tw-h-full d-flex flex-column align-items-center">
                 
                 <div className="d-flex flex-column align-items-center tw-mb-8 user-select-none">
@@ -48,15 +47,14 @@ const Login = () => {
                       required/>
                     </FloatingLabel>
 
-                    <div className="d-flex align-items-center justify-content-between">
-                      <Form.Check 
-                        type="checkbox"
-                        id="remember-me"
-                        label="Remember Me" 
-                        name="remember-me"
-                      />
-                      <Link className="m-0 tw-no-underline" to="/">Forgot Password?</Link>
-                    </div>
+                    <Form.Check 
+                      type="checkbox"
+                      id="remember-me"
+                      label="Remember Me" 
+                      name="remember-me"
+                      className='mb-5'
+                    />
+
                   </div>
                   
                   <button 
@@ -68,8 +66,7 @@ const Login = () => {
                 </form>
 
               </div>
-              
-              
+
             </Col>
           </Row>
         </main>

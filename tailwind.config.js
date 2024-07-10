@@ -4,6 +4,7 @@ module.exports = {
   important: true,
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
+    "./public/**/*.{html}"
   ],
   theme: {
     extend: {
